@@ -49,4 +49,4 @@ Cross-domain experience in regulated industries: healthcare, medical imaging, au
 ## Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-rodriguezruiz)
-[![Email](https://img.shields.io/badge/Email-luisrrr902@@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:luisrr902@gmail.com)
+[![Email](https://img.shields.io/badge/Email-luisrrr902@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:luisrr902@gmail.com)
