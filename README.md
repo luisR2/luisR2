@@ -32,7 +32,7 @@ I build and operate internal platforms that engineering teams actually want to u
 
 ## Featured Project
 
-### 🎵 [genreflow](https://github.com/BodD2/genreflow)
+### 🎵 [genreflow](https://github.com/luisR2/genreflow)
 
 Work in progress. A tool for DJs and producers to identify tracks and gather the context needed while building a set or song.
 
