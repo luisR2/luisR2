@@ -40,7 +40,7 @@ Work in progress. A tool for DJs and producers to identify tracks and gather the
 
 ## Background
 
-8 years across DevOps, Platform, and SRE domains — previously in neuroimaging (QMENTA, GCP-native migration) and automotive (FICOSA, CI/CD tooling for embedded systems). MSc in Telecommunications Engineering.
+10 years in software engineering with 8+ years specializing in DevOps, Platform, and SRE. 
 
 Cross-domain experience in regulated industries: healthcare, medical imaging, automotive safety systems.
 
